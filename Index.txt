@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\Change PDF Selection Options and use CustomPaint
+\Change PDF Selection Options and Use CustomPaint
 \Create Sample PDF Viewer UI Application
 \PDF Viewer Control Hosted in WPF
