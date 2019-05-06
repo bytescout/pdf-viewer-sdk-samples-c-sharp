@@ -2,4 +2,5 @@
 
 \Change PDF Selection Options and Use CustomPaint
 \Create Sample PDF Viewer UI Application
+\Get Selection Points with PDF Viewer UI Application
 \PDF Viewer Control Hosted in WPF
